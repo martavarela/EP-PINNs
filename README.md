@@ -1,4 +1,4 @@
-# PINNsEP
+# EP-PINNs
 
 Matlab files to simulate the cardiac (ventricular) Aliev-Panfilov electrophysiology model in a cable (1D) and rectangular (2D) domain with Neumann boundary conditions and several initial conditions (single ectopic focus, planar wave, spiral wave). The code also supports the inclusion of heterogeneities in D (which are rectangular, for the time being). Centred finite differences and a 4-step explicit Runge-Kutta solvers are used throughout.
 

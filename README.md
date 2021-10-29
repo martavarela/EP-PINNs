@@ -9,5 +9,4 @@ We also include Matlab files to simulate the cardiac (ventricular) Aliev-Panfilo
 Further details can be found in a soon to be published article. In the meantime, email marta.varela (at) imperial.ac.uk with any comments or questions.
 
 
-<img width="259" alt="ExampleAlievPanfilov" src="https://user-images.githubusercontent.com/83647272/120518232-45185f00-c3c9-11eb-93d0-c800bfab9973.png">
-![Fig2new](https://user-images.githubusercontent.com/83647272/139453928-a0824a9f-f6a0-4a61-b9d3-63317f61a3ad.jpeg)
+<img width="259" alt="ExampleAlievPanfilov" src="https://user-images.githubusercontent.com/83647272/139453928-a0824a9f-f6a0-4a61-b9d3-63317f61a3ad.jpeg">
